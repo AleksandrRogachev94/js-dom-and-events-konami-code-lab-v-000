@@ -12,6 +12,6 @@ function init() {
         index = 0
       }
     } else{
-      i = 0
+      index = 0
     }
   })
